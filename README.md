@@ -8,9 +8,10 @@ This project is a simple Morse code translator implemented using an Arduino Uno 
 
 ## Circuit Diagram
 
-<img src="path/to/your/image.jpg" alt="Schematics">
+<img src="https://github.com/manuemmanuel/Text-to-MorseCode/blob/main/Text-to-MorseCode.png" alt="Schematics">
 Connect the buzzer to pin 8 of the Arduino Uno.
-Download ==> Schematics
+
+Download ==> [Schematics](https://github.com/manuemmanuel/Text-to-MorseCode/blob/main/Text-to-MorseCode.pdf)
 
 ## Morse Code Representations
 The Morse code representations for each character of the alphabet are defined in the code.
