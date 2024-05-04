@@ -7,8 +7,9 @@ This project is a simple Morse code translator implemented using an Arduino Uno 
 | PIEZO1 | 1        | Piezo           |
 
 ## Circuit Diagram
-Connect the buzzer to pin 8 of the Arduino Uno.
 
+<img src="path/to/your/image.jpg" alt="Schematics">
+Connect the buzzer to pin 8 of the Arduino Uno.
 Download ==> Schematics
 
 ## Morse Code Representations
